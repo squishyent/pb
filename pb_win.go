@@ -5,7 +5,7 @@ package pb
 import (
 	"syscall"
 
-	"github.com/AllenDang/w32"
+	"github.com/squishyent/w32"
 )
 
 func bold(str string) string {
